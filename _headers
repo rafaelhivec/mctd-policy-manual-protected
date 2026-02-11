@@ -1,0 +1,20 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=()
+
+/app.js
+  Cache-Control: no-store
+
+/styles.css
+  Cache-Control: no-store
+
+/policy.json
+  Cache-Control: no-store
+
+/chunks.json
+  Cache-Control: no-store
+
+
+/api/*
+  Cache-Control: no-store
