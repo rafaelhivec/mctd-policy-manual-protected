@@ -69,9 +69,9 @@ function renderCover() {
         <p><strong>How to use this page:</strong></p>
         <ol>
           <li>Pick a section from <strong>Contents</strong> on the left to read the policy.</li>
-          <li>Use <strong>KweenBee</strong> on the right to ask questions about <em>any part</em> of the document.</li>
+          <li><strong>For HR use only</strong>: Use <strong>KweenBee</strong> on the right to ask questions about <em>any part</em> of the document.</li>
         </ol>
-        <p class="muted">Tip: The Contents list scrolls independently, so you can jump around easily.</p>
+        <p class="muted">The Contents list scrolls independently, so you can jump around easily.</p>
       </div>
     </div>
   `;
